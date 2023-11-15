@@ -1,1 +1,2 @@
-# 535220165_MobileProgramming_Pertemuan13
+# Tugas Mobile Programming pertemuan 13
+Novandry Aprilian (535220165)
